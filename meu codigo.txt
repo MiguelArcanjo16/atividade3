@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+        <title>Document</title>
+    
+    </head>
+    <body>
+       <center> <img src="img/IFALHorizontal.png"alt="" height="200ppx" width="200px"></center>
+      <center>  <h1 style="color:rgb(6, 144, 6);font-size:40px">SNTC</h1></center>
+      <center>  <p style="color:rgb(15, 163, 15)">SEMANA NACIONAL DE CIÊNCIA E TECNOLOGIA</p> </center>
+      <hr>
+     
+        <h2 style="color:green"> Veja o eventos que acontecerão durante a semana:</h2>
+    
+    <ul>
+        <li>Realização de ciclo de Palestras/rodas de conversa;</li> 
+        <li>Manifestações culturais de cunho científico; </li>
+        <li>A Importância da Inovação na Educação e no Mercado de Trabalho</li>
+        <li>Exibição do Cine Ciências e apresentação de forma interdisciplinar de biomas do Brasil.</li>
+        <li>Introdução à Robótica: Conceitos Básicos e Componentes</li>
+        <li>Robótica Educacional: Como Usar Robôs para Aprender</li>
+        <li>O Papel da Pesquisa e Inovação no Desenvolvimento Sustentável</li>
+        <li>Desafios e Oportunidades para Inovações Tecnológicas no Brasil</li>
+    </ul>
+    
+    <h2><p style="color: rgb(20, 130, 53);">Salas Tématicas</p> </h2>
+    <ul>
+       
+        </style>
+        <li>01-Mata Atlântica</li>
+        <li>02-Caatinga</li>
+        <li>03-Cerrado</li>
+        <li>04-Amazônas</li>
+        <li>05-Pampa</li>
+        <li>06-Pantanal</li>
+       
+    </ul>
+
+    <h2><p style="color:green">INSCREVA-SE</p></h2>
+    <table border="1">
+        <tr>
+            <td>Nome:</td>
+            <td><input type="texto"></td>
+        </tr>
+
+        <tr>
+            <td>Idade:</td>
+            <td><select name="seçect" id="selected">
+                <option value="12 anos">12 anos</option>
+                <option value="13 anos">13 anos</option>
+                <option value="14 anos">14 anos</option>
+                <option value="15 anos">15 anos</option>
+                <option value="Mais de 15 anos">Mais de 15 anos</option>
+        </tr>
+
+        <tr>
+            <td>Telefone:</td>
+            <td><input type="texto"></td>
+        </tr>
+
+        <tr>
+            <td>Email:</td>
+            <td><input type="texto"></td>
+        </tr>
+        
+        <tr>
+            <td>Eventos</td>
+            <td><select name="seçect" id="selected">
+                <option value="10h: Paletra sobre Pesquisa e Inovação">10h: Paletra sobre Pesquisa e Inovação</option>
+                <option value="14h: Oficina de Robótica">14h: Oficina de Robótica</option>
+                <option value="16h: Mesa-Redonda obre tecnologia">16h: Mesa-Redonda obre tecnologia</option>
+            </select></td>
+        </tr>
+        
+        <tr>
+            <td><button>Enviar</button></td>
+        </tr>
+        </body>
+        
+</html>
